@@ -110,34 +110,34 @@ This review is primarily meant for readers in biology, so we (ab-)use some commo
 - mutualism: term from community ecology which describes species interacting in such a way that both benefit. This term should be the standard model of researcher - student relationships, but even more so for gifted students.    
  
 # References  
-Abroms, K. I. 1982. The Gifted Infant: Tantalizing Behaviors and Provocative Correlates. Journal of the Division for Early Childhood 5:3 18.
-Clark, B. 2002. Growing up gifted: Developing the potential of children at home and at school. Merrill/Prentice Hall, Upper Saddle River, N. J.
-Colangelo, N., and G. A. Davis. 1991. Handbook on giftedness education. Allyn & Bacon, Boston.
-Dweck, C. S. 2006. Mindset: The new psychology of success. Random House, New York, NY, US.
-Feist, G. J. 1998. A Meta-Analysis of Personality in Scientific and Artistic Creativity. Pers Soc Psychol Rev 2:290-309.
-Feldman, D. H., and J. Piirto. 1995. Parenting talented children. P. in Handbook of Parenting: Volume I: Children and Parenting. Lawrence Erlbaum, Mahwah, NJ.
-Gagne. 1991. Toward a differentiated model of giftedness and talent. P. in Handbook on giftedness education. Allyn & Bacon, Boston.
-Gagné, F. 1999. My Convictions about the Nature of Abilities, Gifts, and Talents. Journal for the Education of the Gifted 22:109-136.
-Gardner, H. 1983. Frames of Mind: The Theory of Multiple Intelligences. Basic Books, New York, New York.
-Garn, A. C., M. S. Matthews, and J. L. Jolly. 2012. Parents’ role in the academic motivation of students with gifts and talents. Psychology in the Schools 49:656-667.
-Gibson, J., and P. Light. 1967. Intelligence among university scientists. Nature 213:441-443.
-Gottfredson, L. S. 1997. Why g matters: The complexity of everyday life. Intelligence 24:79-132.
-Judge. 2006. Idiocracy.
-Karnes, M. B., A. M. Shwedel, and D. Steinberg. 1984. Styles of parenting among parents of young gifted children. Roeper Review 6:232-235.
-Lind. 2011. overexcitability and the gifted.
-Marland, S. P. jr. 1972. Education of the gifted and talented. U.S. Govt. Print. Off., Washington.
-Meckstroth, E. A. 1990. Parents’ role in encouraging highly gifted children. Roeper Review 12:208-210.
-Morawska, A., and M. R. Sanders. 2009. Parenting Gifted and Talented Children: Conceptual and Empirical Foundations. Gifted Child Quarterly 53:163-173.
-Neihart, M. 1999. The impact of giftedness on psychological well-being: What does the empirical literature say? Roeper Review 22:10-17.
-NEUBAUER, A., and E. Stern. 2009. Lernen macht intelligent: Warum Begabung gefördert werden muss. DVA.
-Piirto, J. 2004. Understanding Creativity. Great Potential Press, Scottsdale, Ariz.
-Plomin, R., and S. A. Petrill. 1997. Genetics and intelligence: What’s new? Intelligence 24:53-77.
-Plomin, R., and F. M. Spinath. 2002. Genetics and general cognitive ability (g). Trends in Cognitive Sciences 6:169-176.
-Roedell, W. C., N. E. Jackson, and H. B. Robinson. n.d. Gifted young children. Teacher’s College Press, New York, NY, US.
-Ruf, D. A., and D. L. Ruf. 2005. Losing our minds: Gifted children left behind. Great Potential Press, Tucson, Arizona.
-Sattler, J. M. 2001. Assessment of children: Cognitive applications, 4th ed. Jerome M Sattler Publisher, La Mesa, CA, US.
-Seligman, M. E. P. 1998. The gifted and the extraordinary. APA monitor 29.
-Tucker, B., and N. Lu Haferistein. 1997. Psychological Intensities in Young Gifted Children. Gifted Child Quarterly 41:66-75.
-Webb, J. T., J. L. Gore, and E. R. Amend. 2017. A Parent’s Guide to Gifted Children. Great Potential Press.
+Abroms, K. I. 1982. The Gifted Infant: Tantalizing Behaviors and Provocative Correlates. Journal of the Division for Early Childhood 5:3 18.  
+Clark, B. 2002. Growing up gifted: Developing the potential of children at home and at school. Merrill/Prentice Hall, Upper Saddle River, N. J.  
+Colangelo, N., and G. A. Davis. 1991. Handbook on giftedness education. Allyn & Bacon, Boston.  
+Dweck, C. S. 2006. Mindset: The new psychology of success. Random House, New York, NY, US.  
+Feist, G. J. 1998. A Meta-Analysis of Personality in Scientific and Artistic Creativity. Pers Soc Psychol Rev 2:290-309.  
+Feldman, D. H., and J. Piirto. 1995. Parenting talented children. P. in Handbook of Parenting: Volume I: Children and Parenting. Lawrence Erlbaum, Mahwah, NJ.  
+Gagne. 1991. Toward a differentiated model of giftedness and talent. P. in Handbook on giftedness education. Allyn & Bacon, Boston.  
+Gagné, F. 1999. My Convictions about the Nature of Abilities, Gifts, and Talents. Journal for the Education of the Gifted 22:109-136.  
+Gardner, H. 1983. Frames of Mind: The Theory of Multiple Intelligences. Basic Books, New York, New York.  
+Garn, A. C., M. S. Matthews, and J. L. Jolly. 2012. Parents’ role in the academic motivation of students with gifts and talents. Psychology in the Schools 49:656-667.  
+Gibson, J., and P. Light. 1967. Intelligence among university scientists. Nature 213:441-443.  
+Gottfredson, L. S. 1997. Why g matters: The complexity of everyday life. Intelligence 24:79-132.  
+Judge. 2006. Idiocracy.  
+Karnes, M. B., A. M. Shwedel, and D. Steinberg. 1984. Styles of parenting among parents of young gifted children. Roeper Review 6:232-235.  
+Lind. 2011. overexcitability and the gifted.  
+Marland, S. P. jr. 1972. Education of the gifted and talented. U.S. Govt. Print. Off., Washington.  
+Meckstroth, E. A. 1990. Parents’ role in encouraging highly gifted children. Roeper Review 12:208-210.  
+Morawska, A., and M. R. Sanders. 2009. Parenting Gifted and Talented Children: Conceptual and Empirical Foundations. Gifted Child Quarterly 53:163-173.  
+Neihart, M. 1999. The impact of giftedness on psychological well-being: What does the empirical literature say? Roeper Review 22:10-17.  
+NEUBAUER, A., and E. Stern. 2009. Lernen macht intelligent: Warum Begabung gefördert werden muss. DVA.  
+Piirto, J. 2004. Understanding Creativity. Great Potential Press, Scottsdale, Ariz.  
+Plomin, R., and S. A. Petrill. 1997. Genetics and intelligence: What’s new? Intelligence 24:53-77.  
+Plomin, R., and F. M. Spinath. 2002. Genetics and general cognitive ability (g). Trends in Cognitive Sciences 6:169-176.  
+Roedell, W. C., N. E. Jackson, and H. B. Robinson. n.d. Gifted young children. Teacher’s College Press, New York, NY, US.  
+Ruf, D. A., and D. L. Ruf. 2005. Losing our minds: Gifted children left behind. Great Potential Press, Tucson, Arizona.  
+Sattler, J. M. 2001. Assessment of children: Cognitive applications, 4th ed. Jerome M Sattler Publisher, La Mesa, CA, US.  
+Seligman, M. E. P. 1998. The gifted and the extraordinary. APA monitor 29.  
+Tucker, B., and N. Lu Haferistein. 1997. Psychological Intensities in Young Gifted Children. Gifted Child Quarterly 41:66-75.  
+Webb, J. T., J. L. Gore, and E. R. Amend. 2017. A Parent’s Guide to Gifted Children. Great Potential Press.  
 
 
