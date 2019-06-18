@@ -1,7 +1,7 @@
-* Motivation * 
+**Motivation**
 My children are 5,4 and 1, and exceptionally bright. Fortunately the school of the two older kids made us aware about their high intelligence and took appropriate measures before problems became unbearable. Life is not always easy with gifted kids, but I know that many other parents are not that lucky, and will not know what is "wrong" with their children until much later in their children's lives. By then, some opportunities may be lost (underachievement), and the daily struggles may have left their marks on family harmony. This is why I want to raise awareness for problems of high intelligence.  
 
-* Content * 
+**Content**  
 I am not a psychologist, all knowledge about the topic comes from standard guidebooks on parenting gifted children (Webb). It would definitively profit from a check by someone with more experience! Refs are also mostly taken from textbooks, potentially inaccurate, and often unchecked (many refs are to books I do not have access to).
 This draft is an unfinished, preliminary list of topics I would like to cover. But essentially everything is up to discussion
 
