@@ -1,7 +1,7 @@
-# Motivation  
+* Motivation * 
 My children are 5,4 and 1, and exceptionally bright. Fortunately the school of the two older kids made us aware about their high intelligence and took appropriate measures before problems became unbearable. Life is not always easy with gifted kids, but I know that many other parents are not that lucky, and will not know what is "wrong" with their children until much later in their children's lives. By then, some opportunities may be lost (underachievement), and the daily struggles may have left their marks on family harmony. This is why I want to raise awareness for problems of high intelligence.  
 
-# Content  
+* Content * 
 I am not a psychologist, all knowledge about the topic comes from standard guidebooks on parenting gifted children (Webb). It would definitively profit from a check by someone with more experience! Refs are also mostly taken from textbooks, potentially inaccurate, and often unchecked (many refs are to books I do not have access to).
 This draft is an unfinished, preliminary list of topics I would like to cover. But essentially everything is up to discussion
 
@@ -55,12 +55,12 @@ One would expect that high intelligence leads to good grades, academic success a
 # Problems and opportunities for academic parents  
 Given the long list of potential challenges, it is easy to understand that rearing a gifted child provides unique challenges (Karnes et al. 1984). 67% of fathers and 80% of mothers felt that their child has been difficult to rear, compared to 40/44 of parents of non-gifted children (Morawska and Sanders 2009). Nevertheless high intelligence does not constitute a special need in many countries(refs), which may be a good thing as it does not become needlessly pathologized (ref). Indeed, gifted children are also intensely rewarding. The above-mentioned problems of/with gifted children apply to every family. But, there are problems and opportunities directly arising from being an academic. These relate mainly to identification challenges, a healthy work-life balance, and nomadic life styles.
 
-## identification  
+### identification  
 preschool development is most important for mental and emotional development (Webb et al. 2017). Thus early identification is important. However, the academic background of the parents may initially cause teachers to attribute the curiosity, knowledge and other intelligence - related traits to parental effects rather than an intrinsic property of the child. For example, a 3-year old may correct his kindergarten teacher and childsplain the difference between bugs and beetles. Against a poor family background this level of verbal proficiency, reasoning and knowledge might be surprising, but if the parents are entomologists the intellectual abilities may hardly be noticed. Moreover, other academic parents (and some readers of this text) can relate to the typical problems and special traits of a gifted child, creating a false impression that this behaviour is "normal". While those factors may contribute to an initial lack of detection and treatment, the high socioeconomic status makes it statistically more probable that giftedness of their children will be detected (in comparison to poor and minorities). 
 -	gifted children of academic background also have a better chance to cope with it even if undetected (phenotypic plasticity)
 -	nevertheless things could be improved
 
-## work-life balance  
+### work-life balance  
 -	Sleep deprivation (smart kids sleep less)
 -	High responsibility (Meckstroth 1990; Feldman and Piirto 1995; Garn et al. 2012) - Also ref to imposter syndrome of parents. 
 -	Time-consuming dialogue with school + many deadlines = bad
@@ -71,7 +71,7 @@ But:
 -	(usually) good grades and success
 -	Understanding and reasonable children
 
-## Moving  
+### Moving  
 -	choice of school is limited by short-term contracts and short preparation times
 -	dialogue with school impeded, also due to language barriers (Europe)
 -	Detection may be retarded by change of teachers
