@@ -7,6 +7,7 @@ I am looking for **collaborators/coauthors** with different points of view (diff
 
 
 Currently this repo has three drafts: 
+- blog_post.docx is a blog post that has yet to find a home. Better read that one first. Everything else is still quite messy.
 - gifted.md is a review draft, which is meant to raise awareness about the problems our children may face due to their high intelligence. 
 - gp.md is a draft for a small grant proposal. Something for equal opportunities intiatives or the like
 - teaching.md is an opinion piece/review with a bit of quantitative literature search. It is about teaching for highly intelligent students
